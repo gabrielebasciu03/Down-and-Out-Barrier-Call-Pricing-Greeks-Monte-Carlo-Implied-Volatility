@@ -72,4 +72,4 @@ A bisection solver on [0.01, 1.50] (tolerance 10⁻⁵, at most 200 iterations),
 | Iterations | 20 | 20 |
 | Difference vs. true σ | 0.0000 | 0.0000 |
 
-**Skills demonstrated:** exotic option pricing, numerical Greeks, Monte Carlo and discretisation bias, root-finding, Python (NumPy, Matplotlib).
+**Tech:** exotic option pricing, numerical Greeks, Monte Carlo and discretisation bias, root-finding, Python (NumPy, Matplotlib).
